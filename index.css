@@ -1,8 +1,4 @@
 
-.content {
-  background-color: #344753;
-}
-
 .page-title {
 	color: white;
  	background-image: url('banner_576x130.png');
@@ -26,6 +22,10 @@
 .page-title-text {
 	font-size: 12vw;
  	min-width: 200px;
+}
+
+.footer {
+  background-color: #344753;
 }
 
 .footer-text {
