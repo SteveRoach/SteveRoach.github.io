@@ -1,31 +1,14 @@
-
-.page-title {
-	color: white;
- 	background-image: url('banner_576x130.png');
-	max-width: 100%;
-	height: auto;
+header {
+	background-color: red;
+	height: 200px;
 }
 
-.navbar-toggler {
-	padding: 0.3rem 0.5rem;
+main {
+	background-color: blue;
+	height: 200px;
 }
 
-.toggler-icon {
-	color: white; 
-	font-size: 5vw;
- }
-
-.title-font {
-	font-family: 'Playfair Display', serif;
+footer {
+	background-color: green;
+	height: 200px;
 }
-
-.page-title-text {
-	font-size: 12vw;
- 	min-width: 200px;
-}
-
-.footer-text {
-	color: #CCC;
-	font-size: 0.8rem;
-}
-
