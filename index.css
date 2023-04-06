@@ -1,6 +1,7 @@
 header {
-	background-color: red;
-	height: 200px;
+ 	background-image: url('banner_576x130.png');
+    background-size: 1200px;
+	height: 25vh;
 }
 
 main {
@@ -12,3 +13,14 @@ footer {
 	background-color: green;
 	height: 200px;
 }
+
+.title-font {
+	font-family: 'Playfair Display', serif;
+}
+
+.page-title-text {
+	font-size: 10rem;
+	color: white;
+	padding-top: 7vh;
+}
+
