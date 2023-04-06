@@ -9,8 +9,7 @@ main {
 }
 
 footer {
-	background-color: green;
-	height: 200px;
+	background-color: #344753;
 }
 
 .title-font {
@@ -33,6 +32,10 @@ footer {
 	font-size: 5rem;
  }
 
+.dropdown {
+	background-color: #4c6474;
+}
+
 .dropdown-font {
 	font-family: Arial, Helvetica, sans-serif;
  }
@@ -41,4 +44,9 @@ footer {
 	font-size: 4rem;
 	font-weight: bold;
 	color: black;
+}
+
+.footer-text {
+	color: #CCCCCC;
+	font-size: 3rem;
 }
