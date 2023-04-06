@@ -21,6 +21,16 @@ footer {
 .page-title-text {
 	font-size: 10rem;
 	color: white;
-	padding-top: 7vh;
+	padding-top: 9vh;
 }
+
+.navbar-toggler {
+	padding: 0.3rem 0.5rem;
+	margin: 2rem;
+}
+
+.toggler-icon {
+	color: white; 
+	font-size: 5rem;
+ }
 
