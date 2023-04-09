@@ -5,6 +5,7 @@ header {
 }
 
 main {
+	background-color: blue;
 }
 
 footer {
@@ -43,18 +44,6 @@ footer {
 	font-size: 4rem;
 	font-weight: bold;
 	color: black;
-}
-
-.handyman {
-	background-color: #EEE0B7;
-}
-
-.upcycle {
-	background-color: #EEC5B7;
-}
-
-.special {
-	background-color: #C3A08E;
 }
 
 .footer-text {
