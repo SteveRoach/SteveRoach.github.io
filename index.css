@@ -110,11 +110,11 @@ a:hover {
 }
 
 .title-font {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lobster', cursive;
 }
 
 .page-title-text {
-  font-size: calc(3rem + 5vw);
+  font-size: calc(3rem + 7vw);
   color: white;
 }
 
@@ -124,6 +124,10 @@ a:hover {
 
 .bg-upcycle {
   background-color: #FBEEC1;
+}
+
+.bg-special {
+  background-color: #BC986A;
 }
 
 .bg-special {
